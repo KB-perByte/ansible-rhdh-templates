@@ -39,7 +39,7 @@ spec:
           description: The organization name or username of your source code repository. For example, “my-github-username”.
           maxLength: 100
         repoName:
-          title: Collection repository name
+          title: Collection repository name CUSTOM
           description: The name of the new collection project repository. For example, “my-new-collection-repo”.
           type: string
           maxLength: 100
